@@ -30,7 +30,7 @@ const ATB = (props)=>{
                                 </h4>
                                 
                                 <span className="ata-span-fx">
-                                “Heaven is a lot like earth in many ways,but you only do what you want to do. That’s the reward for having been good on earth and doing all the stuff you didn’t really want to do.”
+                                “Heaven is a lot like earth in many ways, but you only do what you want to do. That’s the reward for having been good on earth and doing all the stuff you didn’t really want to do.”
                                 </span>
                             </div>
                         </div>
@@ -44,10 +44,6 @@ const ATB = (props)=>{
                                 whose priorities included sending their children to Catholic schools and giving them a strong
                                 Catholic background. Money was never superfluous in the home, but there was always a little
                                 set aside for emergencies, such as an illness or a sudden repair.
-                            </p>
-
-                            <p>
-                                My teen years weren't nearly as idyllic. After all they shot John, murdered Martin, assassinated Bobby and force fed us the Vietnam war on television. The "Summer of Love" was the way we answered they're treachery and to an impressionable twelve-year old boy "Sex, drugs and rock & roll" seemed like a mighty fine way of life. I was wrong and my intermediate school years were completely wasted. I got into the drug culture much, much too young, grew my hair long and by the time I was to enter high school I was on the verge of being a societal failure. Praise the Lord it never happened that way and I can say something about my high school years that most people can't. I had the absolute time of my life in those four-years. I had high school so wired and cruised through so easily it was almost criminal. Some people actually thought it was. Unfortunately, back in my day when a young man graduated, he was expected to move out of his parent's house and start making his own way in life and that is exactly what I did.
                             </p>
 
                             <p>
@@ -92,6 +88,8 @@ const ATB = (props)=>{
                                 was born, the first having reached the age of five and a half. During those years, J.C. stayed at
                                 home and concerned herself with her children. She occasionally took correspondence courses
                                 on writing and continued to write long reports to family and friends about her little family.
+                            </p>
+                            <p>
                                 The oldest child was killed in a car/bicycle accident in 1999, and the shock changed J.C.’s life
                                 forever. Wracked with guilt about her daughter’s depression before the accident, J.C. felt like a
                                 failure as a parent, her most important job in life. She had returned to the Catholic Church just
@@ -107,6 +105,8 @@ const ATB = (props)=>{
                                 wrote various conclusions, but none seemed right. Finally, in 2015, J.C. believes that the Holy
                                 Spirit gave her the needed ending. She first published the story as “Amazing Grace” in 2016. In
                                 2020, she revised it just a little and republished it as “For All Eternity.”
+                            </p>
+                            <p>
                                 Currently, J.C. is working on a story set in the future, after the cataclysm of climate change.
                                 There, children are raised on farms, away from the city, and are introduced to a life in
                                 conjunction with nature. They’re taught from early on that their actions have consequences,
