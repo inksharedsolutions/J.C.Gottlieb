@@ -66,7 +66,7 @@ const Nav = (props) =>{
 
 				<h1 className="wn-author-name"><Link to="/">J.C. Gottlieb</Link></h1>
 
-				<ul
+				<ul 
 					className="hamburger-ul"
 					onClick={e => clickEvent(e)}
 					ref={refSpan}>

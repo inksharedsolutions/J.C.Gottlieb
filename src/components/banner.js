@@ -1,6 +1,6 @@
 import React,{useEffect, useRef} from 'react'
 import {Link} from 'gatsby'
-import  ImgBanner from '../../static/book/book-min.png'
+import  ImgBanner from '../../static/book/book-min2.png'
 
 const Banner = ()=>{
 
@@ -22,18 +22,18 @@ const Banner = ()=>{
                                     <h1>
                                         <span className="first-block">
                                             <span id="color-o">
-                                                Amazing
+                                                For All
                                             </span>
                                         </span>
 
                                         <span className="second-block">
                                             <span id="color-u">
-                                             grace
+                                             Eternity
                                             </span>
                                         </span>
                                     </h1>
                                     <p>
-                                    This is the story of my daughter’s first year in heaven: how she learns and grows and becomes a free and independent spirit with God as her guide. 
+                                    Iris have gone through five long years of deep depression, with almost no breaks. Finally, she had found a career that gives joy to those suffering from life-threatening illness. Before she can implement her plan, however, she is hit a bar and dies.
                                     </p>
 
                                     <button>

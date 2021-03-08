@@ -52,7 +52,7 @@ const ATB = (props)=>{
                             </p>
 
                             <p>
-                                At Saint Joseph's High school for Girls, J.C. took the college-preparatory track and was well prepared to start college upon graduation in 1966. Having attended mostly bi-lingual elementary schools, J.C. had very little science education before high school, and when she started in Biology, she was excited about the new world she was learning about. When one of her favorite teachers suggested that she might have a calling to be a nun, she innocently replied, "I used to think so too, but now that I know about babies, I want to get married and have some myself."
+                                At Saint Joseph's High School for Girls, J.C. took the college-preparatory track and was well prepared to start college upon graduation in 1966. Having attended mostly bi-lingual elementary schools, J.C. had very little science education before high school, and when she started in Biology, she was excited about the new world she was learning about. When one of her favorite teachers suggested that she might have a calling to be a nun, she innocently replied, "I used to think so too, but now that I know about babies, I want to get married and have some myself."
                             </p>
 
                             <p>
@@ -60,7 +60,7 @@ const ATB = (props)=>{
                             </p>
 
                             <p>
-                                At college, J.C. took German to fulfill the language requirement for a B.A. Because the University offered a Junior Year Abroad program, she decided to major in German. THe year in Marburg, Germany, was a growing-up experience in many ways. Besides becoming fluent in the language, J.C. learned to live independently. Her many letters home were an opportunity to practice her descriptive writing skills, because life in Germany was very different from life in the United States. Upon her return home, her older sister and husband encouraged her to continue writing, because they had enjoyed her letters.
+                                At college, J.C. took German to fulfill the language requirement for a B.A. Because the University offered a Junior Year Abroad program, she decided to major in the language. The year in Marburg, Germany, was a growing-up experience in many ways. Besides becoming fluent in the language, J.C. learned to live independently. Her many letters home were an opportunity to practice her descriptive writing skills, because life in Germany was very different from life in the United States. Upon her return home, her older sister and husband encouraged her to continue writing, because they had enjoyed her letters.
                             </p>
 
                             <p>

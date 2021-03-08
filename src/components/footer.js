@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import {faTwitter, faInstagram, faFacebook, faGoodreads } from '@fortawesome/fontawesome-free-brands'
+import {faTwitter, faInstagram, faFacebook, faGoodreads, faBlogger} from '@fortawesome/fontawesome-free-brands';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 
@@ -53,6 +53,16 @@ const Footer = ()=>{
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />
+                                </a>
+                            </li>
+                            <li>
+                                <a 
+                                    target="_blank"
+                                    href="http://jcgottlieb.blogspot.com/" rel="noreferrer">
+                                    <FontAwesomeIcon
+                                        className='font-awesome'
+                                        icon={faBlogger}
+                                    />
                                 </a>
                             </li>
                         </ul>
