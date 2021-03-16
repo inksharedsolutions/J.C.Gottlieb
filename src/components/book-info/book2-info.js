@@ -23,7 +23,7 @@ const BookInfo2 = (props)=>{
 
                     <section className="fullSection">
                         <nav className="booklinkBlocks">
-                            <span>Comming Soon.....</span>
+                            <span>Coming Soon.....</span>
 
                             {/* <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.amazon}>Amazon</a></li>
                             { props.data.ebooks.stratton.length > 0 && (
