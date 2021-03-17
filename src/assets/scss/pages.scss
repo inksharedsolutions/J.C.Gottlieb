@@ -73,13 +73,6 @@ $prm-font-size : 12px;
     }
 }
 
-.ata-span-fx{
-    font-size: 15px;
-    font-style: italic;
-    margin-top: 29px;
-    display: block;
-    color: #929292;
-}
 
 .author-image-container{
 
@@ -133,6 +126,18 @@ $prm-font-size : 12px;
         padding: 0px;
         border: 29px solid #fff;
         margin:0;
+    }
+
+    .ata-span-fx{
+        font-size: 15px;
+        font-style: italic;
+        // margin-top: 29px;
+        margin: 29px 10px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #929292;
     }
 }
 

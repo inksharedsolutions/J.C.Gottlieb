@@ -76,6 +76,7 @@ const ATB = (props)=>{
                                     content:
                                     `
                                         <p>
+                                        After five years of crippling depression, Iris finally has her life figured out. She’s chosen a career that will make her happy and will help her bring joy in other people’s lives (a high priority for her). Only, this is her last day on earth! Once in heaven, she’s furious about having lost her life, and nothing Jesus says can console her. She does find joy and peace, however, and loves finding something new to learn about. When asked to return to earth in order to help a confused teenager, she’s both elated and apprehensive. She likes the idea of trying to help someone, but she’s not sure she can. Little does she know that God is in charge.
                                         </p>
                                     `,
                                     
