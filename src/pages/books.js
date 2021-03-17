@@ -46,11 +46,20 @@ const ATB = (props)=>{
                                     content:
                                     `
                                         <p>
-                                        Iris has gone through five long years of deep depression, with almost no breaks. Finally, she has found a career that gives her a true reason for living. She wants to use music to bring joy to those suffering from life-threatening illness. Before she can implement her plan, however, she is hit by a car and dies. When she arrives in heaven, Jesus tells her that she was given the shortcut to heaven because she has suffered enough in her short lifetime.
+                                        Iris has gone through five long years of severe depression. Finally, she’s stumbled upon
+                                        a career that’ll give her a true reason for living. She’s going to use music to cheer up
+                                        very sick people. That’s when she gets hit by a car and dies. Naturally, she’s not happy
+                                        about dying, but Jesus tells her she’s suffered enough in her short lifetime, and she’ll
+                                        learn to like being in heaven.
                                         </p>
 
                                         <p>
-                                        Everything seems to be easier in heaven. Iris learns to play all the musical instruments she has always wanted to play. She also visits new places on earth as well as old familiar ones, always as a spirit, and usually with her cousin and kindred spirit, Ray. While she spends her first Christmas in Old Bethlehem, Ray takes a job on earth for the Lord. He asks Iris to come down to earth and help a girl who is a self-mutilator. Iris is both elated and apprehensive. She likes the idea of trying to help someone, but she's not sure she can. She doesn't realize that God is in charge, and all of this fits into his plan.
+                                        Iris quickly, almost magically, learns to play all the musical instruments she’s always
+                                        wanted to play. Everything is easy in heaven. And she finds a bosom buddy in Ray, a
+                                        cousin who’s closer to her age than anyone else there. Ray has taken a job on earth for
+                                        the Lord and asks Iris to return with him. A girl who’s a self-mutilator (like Iris was) needs
+                                        help. Iris likes the idea of trying to help someone, but she’s afraid she won’t be able to.
+                                        She doesn’t realize that all this fits into God’s plan.
                                         </p>
                                     `,
                                     
@@ -83,10 +92,10 @@ const ATB = (props)=>{
                                     ebooks:{
                                         // stratton : 'https://stratton-press.com/books/for-all-eternity-a-story-of-heaven/',
                                         barnes: 'https://www.barnesandnoble.com/w/for-all-eternity-jc-gottlieb/1137318333?ean=9781648951008',
-                                        amazon :'https://www.amazon.com/All-Eternity-J-C-Gottlieb-ebook/dp/B08CQ9K1K8/ref=sr_1_1?dchild=1&keywords=9781648951008&qid=1594396158&sr=8-1', 
+                                        amazon :'https://www.amazon.com/Amazing-Grace-J-C-Gottlieb-ebook/dp/B079651YS8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1615951840&sr=1-7', 
                                     },
                                     paperback:{
-                                        amazon:'https://www.amazon.com/All-Eternity-Story-Heaven/dp/164895099X/ref=sr_1_1?dchild=1&keywords=9781648950995&qid=1595342882&sr=8-1',
+                                        amazon:'https://www.amazon.com/Amazing-Grace-J-C-Gottlieb/dp/1512764655/ref=sr_1_7?dchild=1&qid=1615951840&refinements=p_27%3AJ+C+Gottlieb&s=books&sr=1-7&text=J+C+Gottlieb',
                                         barnes:'https://www.barnesandnoble.com/w/for-all-eternity-j-c-gottlieb/1137333890?ean=9781648950995',
                                         booksamillion:'https://www.booksamillion.com/p/All-Eternity/J-C-Gottlieb/9781648950995?id=8049069540563&_ga=2.35848160.1795637206.1612940477-2145380449.1604906972#',
                                     }
