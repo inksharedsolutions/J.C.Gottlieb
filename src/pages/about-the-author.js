@@ -29,9 +29,9 @@ const ATB = (props)=>{
                                     
                                 </h4>
                                 
-                                <span className="ata-span-fx">
+                                {/* <span className="ata-span-fx">
                                 “Heaven is a lot like earth in many ways, but you only do what you want to do. That’s the reward for having been good on earth and doing all the stuff you didn’t really want to do.”
-                                </span>
+                                </span> */}
                             </div>
                         </div>
 

@@ -35,7 +35,7 @@ const UpperMain =()=>{
                                 <span>Author & Writer</span>
 
                                 <p>
-                                J.C. Gottlieb was born on January 23, 1948, the second of seven children born to a FrenchCanadian/Irish Catholic couple, in Manchester, NH. Her parents were working class people whose priorities included sending their children to Catholic schools and giving them a strong Catholic background. Money was never superfluous in the home, but there was always a little set aside for emergencies, such as an illness or a sudden repair. J.C. had strong connections with both of her grandmothers as well as numerous aunts, uncles, and cousins.
+                                J.C. Gottlieb was born on January 23, 1948, the second of seven children born to a FrenchCanadian/Irish Catholic couple, in Manchester, NH. Her parents were working class people whose priorities included sending their children to Catholic schools and giving them a strong Catholic background.
                                 </p>
 
                                 <button>
