@@ -11,7 +11,7 @@ const MidMain = ()=>{
                 <div className="container-gt">
                     <h1>Featured</h1>
                     <p className="middle-params">
-                        Joanne L. Wasner has been featured numerous times on...
+                     J.C. Gottlieb has been featured numerous times on...
                     </p>
 
                     <div className="grid-template-four-col" id="logos-col">
