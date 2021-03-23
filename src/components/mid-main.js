@@ -13,7 +13,6 @@ const MidMain = ()=>{
                     <p className="middle-params">
                      J.C. Gottlieb has been featured numerous times on...
                     </p>
-
                     <div className="grid-template-four-col" id="logos-col">
                         <li>
                           <img src={Logo1} alt="amazon-logo"/>
@@ -30,7 +29,6 @@ const MidMain = ()=>{
                         <li>
                             <img src={Logo4} alt="stratton-logo"/>
                         </li>
-
                     </div>
                 </div>
             </section>

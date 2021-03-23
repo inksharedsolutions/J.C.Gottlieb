@@ -33,7 +33,7 @@ const Banner = ()=>{
                                         </span>
                                     </h1>
                                     <p>
-                                    Iris have gone through five long years of deep depression, with almost no breaks. Finally, she had found a career that gives joy to those suffering from life-threatening illness. Before she can implement her plan, however, she is hit a bar and dies.
+                                    Iris has gone through five long years of deep depression, with almost no breaks. Finally, she's had found a career that gives joy to those suffering from life-threatening illness. Before she can implement her plan, however, she is hit by a car and dies.
                                     </p>
 
                                     <button>
