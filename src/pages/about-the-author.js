@@ -60,7 +60,7 @@ const ATB = (props)=>{
                             </p>
 
                             <p>
-                            After about a year, she had a story. She decided it might comfort others who had gone through similar losses, but it needed an ending. Over the next fifteen years, J.C.wrote various conclusions, but none seemed right. Finally, in 2015, the ending she finally wrote suddenly popped into her head. She was sure it came from the Holy Spirit. She first published her story with Westbow Press in 2016 as “Amazing Grace.” In 2020, she revised it just a little and republished it with Stratton Press as “For All Eternity.”
+                            After about a year, she had a story. She decided it might comfort others who had gone through similar losses, but it needed an ending. Over the next fifteen years, J.C.wrote various conclusions, but none seemed right. Finally, in 2015, the ending suddenly popped into her head. She was sure it came from the Holy Spirit. She first published her story with Westbow Press in 2016 as “Amazing Grace.” In 2020, she revised it just a little and republished it with Stratton Press as “For All Eternity.”
                             </p>
 
                             <p>
